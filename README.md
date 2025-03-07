@@ -1,8 +1,9 @@
-**Estudos Front-End - Cursos Front-End - COFFEE CODED AGENCY**
+# Estudos Front-End
+**COFFEE CODED AGENCY**
 
 **O que você vai precisar**
 
-Para desenvolver e rodar o projeto "Portal do Município de Itajaí", você precisará das seguintes ferramentas instaladas no seu computador:
+Para desenvolver e rodar o projeto de esttudos front-end, você precisará das seguintes ferramentas instaladas no seu computador:
 
 1. **Git**: Utilizado para baixar o código do projeto.
 2. **Node.js 20**: Utilizado para executar scripts de desenvolvimento.
